@@ -1,7 +1,7 @@
 👋 Hello World! I'm Caetano Apollo
 🌟 Aspiring Programmer | 🎓 Tech Enthusiast | 🖥️ Code Explorer
 
-📚 About Me:
+🔥 About Me:
 I'm a passionate tech enthusiast currently pursuing my technical education in programming. My journey in the world of coding started with a simple "Hello World" and has since evolved into a full-fledged exploration of the fascinating realm of software development.
 
 💻 What I'm Working On:

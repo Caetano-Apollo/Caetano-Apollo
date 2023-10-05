@@ -11,7 +11,7 @@ I'm dedicated to honing my programming skills and expanding my knowledge in vari
 📧 Email: caetanosilveira1908@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/caetano-silveira
 
-<div style="display: inline_block"><br>
+<div style="display: flex; align-itens: center;"><br>
   <img align="center" alt="Cae-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cae-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cae-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

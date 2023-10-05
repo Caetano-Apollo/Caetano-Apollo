@@ -14,6 +14,12 @@ I'm dedicated to honing my programming skills and expanding my knowledge in vari
   <img align="center" alt="Cae-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
+<div>
+  <a href="https://github.com/CaetanoApollo">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoApollo&hide_progress=true">
+  </a>
+</div>
+
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:caetanosilveira1908@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

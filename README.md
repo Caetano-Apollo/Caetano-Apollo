@@ -7,7 +7,7 @@ I'm a passionate tech enthusiast currently pursuing my technical education in pr
 💻 What I'm Working On:
 I'm dedicated to honing my programming skills and expanding my knowledge in various languages and technologies. From mastering the fundamentals of Python to diving into web development with HTML, CSS, and JavaScript, I'm on a constant quest for learning and growth.
 
-<div style="display: inline-block;"><br>
+-----<div style="display: inline-block;"><br>
   <img align="center" alt="Cae-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cae-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cae-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

@@ -14,10 +14,14 @@ I'm dedicated to honing my programming skills and expanding my knowledge in vari
     <img align="center" alt="Cae-Python" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   <br>
-
+  <br>
   <div>
     <a href="https://github.com/CaetanoApollo">
-      <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoApollo&layout=compact&langs_count=16&theme=dracula">
+      <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoApollo&layout=compact&theme=dracula">
+      <br>
+      <br>
+      <br>
+      <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=CaetanoApollo&show_icons=true&theme=dracula">
     </a>
   </div>
   <br>

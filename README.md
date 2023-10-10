@@ -17,7 +17,7 @@ I'm dedicated to honing my programming skills and expanding my knowledge in vari
 
   <div>
     <a href="https://github.com/CaetanoApollo">
-    <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoApollo&layout=compact&langs_count=16&theme=dracula">
+    
     </a>
   </div>
   <br>

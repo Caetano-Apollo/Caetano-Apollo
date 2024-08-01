@@ -21,7 +21,7 @@ I'm dedicated to honing my programming skills and expanding my knowledge in vari
       <br>
       <br>
       <br>
-      <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=CaetanoApollo&show_icons=true&theme=dracula">
+<!--       <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=CaetanoApollo&show_icons=true&theme=dracula"> -->
     </a>
   </div>
   <br>
